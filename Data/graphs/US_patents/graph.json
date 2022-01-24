@@ -1,0 +1,2632 @@
+{
+    "problem_graph": [
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb750",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "location",
+                    "amount of fluid",
+                    "length"
+                ],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb749",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "an array of needles is incorporated into a device which delivers a substantially equal amount of fluid at any location in said solid tissue along each needle 's length",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb744",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "fluorescence intensity"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the fluorescence values of the reagent blank were subtracted from that of each of the samples and the percentage of free modified rna was determined by dividing the fluorescence intensity of the intact sample ( without addition of triton x-100 ) by the fluorescence value of the disrupted sample ( caused by the addition of triton x-100 )",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb796",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb795",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles are incorporated into the instrument which injects fluids intradermally with a wider disperse",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7100",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb799",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to deem",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb782",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb781",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to chiu",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7108",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "approaches can increase the avidity and specificity of homing interactions",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb752",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb751",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles are incorporated into a device which delivers a medication into a stratum corneum through the needles",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb798",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb797",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles having side openings for enhanced administration are incorporated into a device which by extending and retracting said needles from and into the needle chamber forces a medicinal agent from a reservoir into said needles and injects said medicinal agent into a target organ",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7129",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "prior to injection mmrna-containing lipidoid formulations are diluted in pbs",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb736",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "fusion proteins the modified nucleic acids and mmrna may encode a fusion protein",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb796",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb795",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to eliscu",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb778",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb777",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple hypodermic needles are incorporated into the device which injects the contents of the hypodermics into a tissue as said hypodermics are being retracted",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7102",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7101",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to down",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb732",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb731",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "it will be at least about amino acid residues long",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb788",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb787",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "at least hollow micro-needle is incorporated into the device which delivers the vaccines to the subject 's skin to a depth of between 0.025 mm and 2 mm",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb756",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "modulation of biological pathways the rapid translation of modified mrnas introduced into cells provides a desirable mechanism of modulating target biological pathways",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb756",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "rate"
+                ],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb755",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles were incorporated into the pump which pushes a medicating agent through the needles at a controlled rate",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb750",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb749",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to bahrami",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb737",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the supernatants were harvested after hrs and the secreted g-csf protein was analyzed by elisa using the human g-csf elisa kit ( life technologies )",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb748",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb747",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to zimmerman",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb782",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "factor",
+                    "length"
+                ],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb781",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "5 to 15 needles having a maximum diameter of at least 1.25 mm and a length effective to provide a puncture depth of 6 to 20 mm are incorporated into a device which inserts into proximity with a myocardium and supplies an exogeneous angiogenic or myogenic factor to said myocardium through the conduits which are in at least some of said needles",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7103",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "administration of factor ix mmrna",
+                    "pg/ml of factor ix"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the results revealed that administration of factor ix mmrna resulted in levels of 1600 pg/ml at hours as compared to less than pg/ml of factor ix for either luciferase or buffer control administration",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb782",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "in vivo formulation may require the addition of extra ingredients to facilitate circulation throughout the body",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "problem"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb755",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "body weight of the animal"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the dose of the mmrna administered to the animal is calculated depending on the body weight of the animal",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb794",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb793",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles are incorporated into the device which is implanted along with one or more housings adjacent the patient 's left and right corpora cavernosa",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7114",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "set ratio"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "example formulation of modified mrna using lipidoids modified mrnas ( mmrna ) are formulated for in vitro experiments by mixing the mmrna with the lipidoid at a set ratio prior to addition to cells",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb754",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb753",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "apoptosis can be induced by multiple independent signaling pathways that converge upon a final effector mechanism consisting of multiple interactions between several \u201c death receptors \u201d and their ligands",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb768",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb767",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles are incorporated into the device which moves the attached capsules between an activated position and an inactivated position to force the agent out of the capsules through the needles",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb753",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "from the whole body images the bioluminescence was measured in photon per second for each route of administration and dosing regimen",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7100",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "luciferin was administered by intraperitoneal injection ( ip ) at mg/kg to each mouse prior to imaging during the plateau phase of the luciferin exposure curve which was between and minutes",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb798",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb797",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to ting",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7136",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "room temperature"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the rna vial was then mixed with the rnaimax\u2122 vial and incubated for minutes at room temperature before being added to the cells in a drop-wise fashion",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7106",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "absence may be due to genetic mutation of the encoding gene or regulatory pathway thereof",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb758",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb757",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to toubia",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7102",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7101",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple skin penetrating members which are incorporated into the device have lengths of about microns to about microns and are about 30 to 50 gauge",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7106",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "transformations are performed according to neb instructions using 100 ng of plasmid",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb760",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "number",
+                    "number of neutrons",
+                    "mass"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "\u201c isotopes \u201d refers to atoms having the same atomic number but different mass numbers resulting from a different number of neutrons in the nuclei",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb742",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb741",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "activity level"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "reduction can be measured by expression or activity level of type interferons or the expression of interferon-regulated genes as the toll-like receptors ( e. g",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7130",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "tissue images and serum was collected from each mouse hours after dosing",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7126",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "a reservoir and a pump are also implanted to supply drugs through the needles",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb743",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "subsequently the target compound was subjected to an additional rp-hplc purification which was done using a ymc\u2014pack c4 column to afford the target compound",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb756",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb755",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according shachar",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7109",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "one of ordinary skill in the art will appreciate that the nucleotide analogs or other modification ( s ) may be located at any position ( s ) of a nucleic acid such that the function of the nucleic acid is not substantially decreased",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7105",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "results were interpolated against the standard curve of each elisa plate using a four parameter logistic curve fit",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7139",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "ability"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "\u201c proliferative \u201d means having the ability to proliferate ",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb758",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb757",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles are incorporated into the probe which receives the active agent into a chamber and administers the agent to the tissue",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb766",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb765",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles are incorporated into the devices which deliver the therapeutic agents to different depths within the tissue",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb752",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "an asterisk indicates statistical significance at p < 0.001 compared to buffer",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb798",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "also provided are nucleic acids containing a kozak sequence",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb767",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "all statements as to the date or representation as to the contents of these documents is based on the information available to the applicants and does not constitute any admission as to the correctness of the dates or contents of these documents",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb746",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb745",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "micro-needles are incorporated into a device which drives by an electrical current the medication through the needles into the targeted treatment site",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb754",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "many chemical cap analogs are used to co-transcriptionally cap a synthetic mrna molecule",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb752",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb751",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to kimmell",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb780",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb779",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to pettis",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb766",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb765",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to orr",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb774",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "energy"
+                ],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb773",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles are incorporated into a device which applies vacuum to draw skin into contact with a plate so that needles insert into skin through the holes on the plate and deliver rf energy",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb746",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb745",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to etheredge",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb788",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb787",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to mitszta",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb776",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb775",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles are incorporated into a device which is inserted into a body and delivers a medication fluid through said needles",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb768",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "these complexes require the dicer ribonuclease and clr4 histone h3 methyltransferase for activity",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "problem"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb795",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the bioluminescence showed a positive signal at the injection site of the 5 \u03bcg and \u03bcg modified rna formulations containing and not containing lipoplex",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb784",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb783",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "delivery may be at the same time",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb793",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "rnaimax\u2122 example routes of administration further studies were performed to investigate dosing using different routes of administration",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb786",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb785",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "an array of micro-needles is incorporated into a device which delivers a therapeutic agent through the needles directly into the trigone of the bladder",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb790",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "effect"
+                ],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb789",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the cytotoxic nucleosides are released which also effect therapeutic benefit to the subject",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb774",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb773",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to schomacker",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb764",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb763",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to angel",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7124",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "example in vivo delivery using varying lipid ratios modified mrna was delivered to c57/bl6 mice to evaluate varying lipid ratios and the resulting protein expression",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb778",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb777",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to zamoyski",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb780",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb779",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles are incorporated into a device which delivers the substance through the needles to a depth between 0.3 mm and 2 mm",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb776",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb775",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to desai",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7122",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "example in vitro transcription ( ivt ) the in vitro transcription reaction generates mrna containing modified nucleotides or modified rna",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7100",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb799",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles are incorporated into the device which delivers neurotoxin through the needles into the bronchial tissue",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7137",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the liver and spleen from the mice administered with mcherry modified mrna are analyzed by immunohistochemistry ( ihc ) or fluorescence-activated cell sorting ( facs )",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb770",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb769",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "curved needles are incorporated which enter the organ wall in a flattened trajectory",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb794",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb793",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to forsell",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb770",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "effect"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the functions may effect the same outcome or a different outcome",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb738",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "factor ix protein"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the results demonstrate that factor ix protein was elevated in serum as measured hours after administration",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb791",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "weight polyethylene"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "solid compositions of a similar type may be employed as fillers in soft and hard-filled gelatin capsules using such excipients as lactose or milk sugar as well as high molecular weight polyethylene glycols and the like",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7116",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "room temperature"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the diluted components are pooled and incubated minutes at room temperature before they are dispensed to culture media",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7119",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "fluorescence intensity"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the mean fluorescence intensity ( mfi ) of all events and the standard deviation of four independent wells are presented in for samples analyzed",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb786",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb785",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to versi",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7117",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "density",
+                    "cell density"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "cell density may vary from cell/50 \u03bcl to a density of 2.5\u00d7106 cells/50 \u03bcl and require from 110v to 145v to transfect cells with similar efficiencies measured in transcript copies per cell",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "problem"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb792",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb791",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "it is known to be difficult to obtain dna expression in cells as frequently dna enters a cell but is not expressed or not expressed at reasonable rates or concentrations",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb759",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "also provided are compositions for generation of an in vivo depot containing an engineered ribonucleotide",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb789",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "techniques for determining identity are codified in publicly available computer programs",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb760",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb759",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "as it pertains to a modified mrna may also mean any alteration which is different from the wild type",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb768",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb767",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to gunday",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb748",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "content in a reservoir"
+                ],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb747",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple hollow needles positioned in a roller are incorporated into the device which delivers the content in a reservoir through the needles as the roller rotates",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb764",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "substance into a body surface",
+                    "surface"
+                ],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb763",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "multiple needles are incorporated into the device which transports a substance into a body surface through the needles which are inserted into the surface from different directions",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb786",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "different nucleotide modifications and/or structures may exist at various positions in the nucleic acid",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb780",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the formulations which had been purified had a slightly higher mfi than those formulations tested before purification",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb762",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "parents": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb761",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "a ligand can act as a homing moiety which permits the cell to target to a specific tissue or interact with a specific ligand",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb770",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb769",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "according to tkebuchava",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb771",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "final reaction concentrations for nucleotide are mm for the cap analog and 1.5-7.5 mm for each of the other nucleotides",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb7132",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "\u201c anti-proliferative \u201d means having properties counter to or inapposite to proliferative properties",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb747",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "approaches can increase the avidity and specificity of homing interactions",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb757",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [
+                    "matrix into the blood stream",
+                    "ability of formulations"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the characteristics of optimized lipidoid formulations for intramuscular or subcutaneous routes may vary significantly depending on the target cell type and the ability of formulations to diffuse through the extracellular matrix into the blood stream",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb732",
+                "id": "d7c91fb6-1548-4c73-a2c0-bc6c60b23eb731",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the polypeptide is a peptide",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "cc9d3b3d-3653-4ae3-aa77-584093cd2cb850",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the mmrna comprises the modified nucleoside 1-methyl-pseudouridine in combination with 5-methyl-cytidine",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f159",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [
+                    "level"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "solid and hematopoietic tumor types are particularly associated with a high level of abnormal angiogenesis",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f135",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [
+                    "concentration"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "specific sirna and concentration are indicated for each plot",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f173",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "coupling to peg was performed at c. for hours in fold molar excess of reactive linear peg unless otherwise indicated",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f161",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "receptors which interact preferentially with ephrin-a proteins are epha receptors and those which interact preferentially with ephrin-b proteins are ephb receptors",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f165",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "g. ephb4 sirna and antisense odns inhibit the mobility of pc3 cells pc3 cells can grow aggressively locally and can form lymph node metastases when injected orthotopically into mice",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f195",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "twenty prospectively collected tumor tissues following irb approval have been evaluated with specific ephb4 monoclonal antibody that does not react with other members of the ephb and epha family",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f1129",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "we investigated whether ks tumor cells are derived from arterial or venous endothelium",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f196",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "shown are merged images of dapi and fitc fluorescence",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f172",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "shown are representative phase contrast fields of cord formation after hr plating on matrigel\u2122 in the continued presence of the test compounds as shown",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f191",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "results of three independent experiments are shown for each protein",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f1126",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the soluble ephb4 polypeptide may inhibit clustering of or phosphorylation of ephrin b2 or ephb4",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f160",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [
+                    "concentration"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "i. purification of pegylated sb4 species biotinylated sb4 protein was concentrated up to final concentration of 2 mg/ml using a 30 kda mwco ultra membrane",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f148",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the soluble ephrinb2 polypeptides bind specifically to an ephb4 polypeptide",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "b5eaaee4-ba92-4c10-abd8-c882f30706f162",
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f161",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the subsequent vascular response was measured extending from the limbal vasculature toward the pellet and the contiguous circumferential zone of neovascularization data and clinical photos presented here were obtained on day after pellet implantation",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f160",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "parents": "b5eaaee4-ba92-4c10-abd8-c882f30706f159",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "reverse signaling can occur through the ephrin bs",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "problem"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f170",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "shown are representative photomicrographs of control sirna and sirna treated cells",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f1111",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "growth inhibition assay human umbilical cord vein endothelial cells ( huvec ) ( 1.5\u00d7103 ) are plated in a 96-well plate in \u03bcl of ebm-2 ( clonetic # cc3162 )",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "b5eaaee4-ba92-4c10-abd8-c882f30706f158",
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f157",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [
+                    "ingredient",
+                    "amount",
+                    "dosage form"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the amount of active ingredient which can be combined with a carrier material to produce a single dosage form will vary depending upon the host being treated",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f1127",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "shown are the mean+standard deviation of duplicate samples",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f141",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "at nm there was times more apoptosis in sirna transfected than control sirna transfected pc3 cells",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f162",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "murine matrigel plug angiogenesis assay in vivo angiogenesis was assayed in mice as growth of blood vessels from subcutaneous tissue into a matrigel plug containing the test sample",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f163",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "slk cells transfected with lana or lana\u03b4440 are slk-lana and slk-\u03b4440 respectively",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f190",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the soluble ephb4 polypeptides bind specifically to an ephrinb2 polypeptide",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "b5eaaee4-ba92-4c10-abd8-c882f30706f160",
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f159",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "in addition to forward signaling through the eph receptor",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f158",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "photomicrographs are of representative fields ",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f1138",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "shown are photomicrographs of representative fields taken immediately after the scrape was made in the monolayer ( 0 h ) and after 20 h continued culture",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f155",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "binding reactions were stopped by dilution with 1.2 ml of bb and centrifugation",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "b5eaaee4-ba92-4c10-abd8-c882f30706f142",
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f141",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [
+                    "length of the linker sequence",
+                    "length"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the length of the linker sequence separating ephb4 and hsa can be from 5 to 500 amino acids in length",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f1113",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "mice are sacrificed on day 14",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f1119",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "several clinical problems regarding the diagnosis and treatment of malignant mesothelioma remain unsolved",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f176",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the differences between normal epithelium of the upper aerodigestive tract and cancer cells arising from that tissue are the result of mutations in specific genes and alteration of their expression",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f1133",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [
+                    "number",
+                    "efficacy",
+                    "region"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "a number of different phosphorothioate-modified as-odns complementary to different segments of the ephb4 coding region were tested for specificity and efficacy of ephb4 inhibition",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f154",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "cotransfection of hhv-8 vgpcr induces ephrin b2 transcription approximately 10-fold compared to the control expression vector pcefl",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f165",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "polypeptides may also inhibit angiogenesis in vivo or in an cell-based assay system",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f1131",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the polypeptide can then be reacted with chemical protecting agents to selectively protect reactive side chain groups and thereby prevent side chain groups from being modified",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f183",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "ephb4 antibodies mg per kg body weight were administered",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "problem"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f170",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "modified soluble polypeptide are considered functional equivalents of the naturally-occurring ephb4 or ephrin b2 soluble polypeptide",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f1122",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "pegs with more than peg chain are called multiarmed or branched pegs",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f1128",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "a ) in situ hybridization with antisense probes for ephrin b2 and ephb4 with corresponding h & e stained section to show tumor architecture",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f136",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "applicants detected expression of ephrin b2 and ephb4 in tumor tissues and developed anti-tumor therapeutic agents for blocking signaling through the ephrin/eph",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "b5eaaee4-ba92-4c10-abd8-c882f30706f132",
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f131",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "it is expected that dna sequence polymorphisms that do lead to changes in the amino acid sequences of the subject proteins will exist among mammalian cells",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f194",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "shown are the mean+s e. m. of 6 mice/group ",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f151",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "stroma and the normal epithelia are negative",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f197",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "specific signal for ephb4 was detected using antisense probe ephrin b2 transcripts were also detected in the same cell line",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f1134",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "an intrastromal micropocket was dissected using a modified von graefe knife ( 2\u2022\u202230 mm )",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "b5eaaee4-ba92-4c10-abd8-c882f30706f164",
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f163",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [
+                    "number of cells"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "a large number of cells have filled in the scrape after 20 h with control sirna",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f142",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "masson 's trichrome allows to visualize necrosis and fibrosis",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f143",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "results obtained from experiments with duplicate plugs are displayed as mean values\u00b1s",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f177",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [
+                    "propidium iodide fluorescence intensity",
+                    "cell number"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "shown are the plots of cell number vs. propidium iodide fluorescence intensity ",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f134",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the right hand column are frozen sections of lymph node metastasis stained with ephb4 polyclonal antibody ( top right ) and visualized with dab",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f164",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "results are displayed as mean values\u00b1s",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "b5eaaee4-ba92-4c10-abd8-c882f30706f154",
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f153",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [
+                    "domain"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "sequence of the extracellular domain of human ephb4 contains predicted n-glycosylation sites ( nxs/t ) which are located in the cys-rich domain",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f192",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "shown are membranes sequentially probed for ephb4 and \u03b2-actin",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f168",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "polypeptides may also inhibit angiogenesis in vivo or in an cell-based assay system",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f157",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "examples are salicylic acid and sulfur",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "b5eaaee4-ba92-4c10-abd8-c882f30706f166",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "a displays the strong inhibition of tubule formation by b4v3 in a representative experiment",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a781",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "persons of ordinary skill in the art can easily estimate repetition rates for dosing based on measured residence times and concentrations of the drug in bodily fluids or tissues",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a758",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "southern blots are performed to allow a determination of the degree of identity between genes in target species and other species",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a789",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "variants that originate from a pre-mrna or mrna that use alternative start codons are known as \u201c alternative start variants of that pre-mrna or mrna",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a785",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [
+                    "conformation",
+                    "temperature"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "melting curve assay determines the temperature at which a rapid transition from double-stranded to single-stranded conformation occurs for the natural antisense/molecule complex",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a770",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the abstract of the disclosure will allow the reader to quickly ascertain the nature of the technical disclosure",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a782",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the amide backbones disclosed by de mesmaeker et al ",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a742",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "parents": "4e1c30c9-36d0-4bf7-811d-21c12fae31a741",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "adenine and thymine are complementary nucleotides which pair through the formation of hydrogen bonds",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a750",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "cardiomyopathics may result from a lack of oxygen",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a766",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "\u201c segments \u201d are defined as smaller or sub-portions of regions within a target nucleic acid ",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a763",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "real time pcr results show that the levels of dmd family mrna in cells are significantly increased 48 h after treatment with of the sirnas designed to dmd family antisense bg208074",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a747",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "comparison of nucleic acid sequences from a range of species allows the selection of nucleic acid sequences that display an appropriate degree of identity between species",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a747",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "binding occurs through the target binding portion of an enzymatic nucleic acid this/these is held in close proximity to an enzymatic potion of the molecule that acts to cleave the target rna",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a771",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "these findings demonstrate that ribozymes can promote chemical transformations with catalytic rates that are significantly greater than those displayed in vitro by most natural self-cleaving ribozymes",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a788",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "liposomes that are ph-sensitive or negatively-charged are believed to entrap dna rather than complex with it",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a742",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "an antisense oligonucleotide can upregulate or downregulate expression and/or function of a particular polynucleotide",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a749",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "binding occurs through the target binding portion of a enzymatic nucleic acid this/these is held in close proximity to an enzymatic portion of the molecule that acts to cleave the target rna",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a787",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "variants may result from at least mutation in the nucleic acid sequence and may result in altered mrnas or in polypeptides whose structure or function may or may not be altered",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a7106",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the development of ribozymes that are optional for catalytic activity would contribute significantly to any strategy that employs rna-cleaving ribozymes for the purpose of regulating gene expression",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a784",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [
+                    "form of heart disease"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "mutations in the dmd family gene also cause a form of heart disease called x-linked dilated cardiomyopathy",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a765",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "no splicing of the pre-mrna variant occurs then the pre-mrna variant is identical to the mrna variant",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a792",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "\u201c neurological disease or disorder \u201d refers to any disease or disorder of the nervous system and/or visual system ",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a798",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "binding occurs through the target binding portion of a enzymatic nucleic acid which is held in close proximity to an enzymatic portion of the molecule that acts to cleave the target rna",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "4e1c30c9-36d0-4bf7-811d-21c12fae31a746",
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a745",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "in addition to aiding the diffusion of non-lipophilic drugs across cell membranes",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a764",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [
+                    "form of droplets"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "emulsions are typically heterogeneous systems of one liquid dispersed in another in the form of droplets usually exceeding 0.1 \u03bcm in diameter",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a753",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "moieties include but are not limited to lipid moieties as a cholesterol moiety, a cholesteryl moiety ( letsinger et al ., proc",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a754",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [
+                    "ability"
+                ],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "strategic cleavage of such a target rna will destroy its ability to direct synthesis of an encoded protein",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "problem"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a744",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "parents": "4e1c30c9-36d0-4bf7-811d-21c12fae31a743",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the activity or expression of dystrophin family in an animal is inhibited by 50 % or more",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a752",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "cleavage event renders the mrna non-functional and abrogates protein expression from that rna",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a760",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the specificity and sensitivity of antisense are also harnessed by those of skill in the art for therapeutic uses",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a799",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "species variants are polynucleotide sequences that vary from species to another",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a737",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "binding occurs through the target binding portion of an enzymatic nucleic acid which is held in close proximity to an enzymatic potion of the molecule that acts to cleave the target rna",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a786",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "other diseases include those that result from myocardial injury which involves damage to the muscle or the myocardium in the wall of the heart as a result of disease or trauma",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "enfants": "4e1c30c9-36d0-4bf7-811d-21c12fae31a732",
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a731",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "new isoforms of syntrophins ( \u03b31- and \u03b32- ) have also been reported and were found expressed as brain-specific protein ( piluso et al ",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "partialSolution"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a746",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [
+                    "permeability"
+                ],
+                "parents": "4e1c30c9-36d0-4bf7-811d-21c12fae31a745",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "penetration enhancers also enhance the permeability of lipophilic drugs",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a740",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "the decoy rna therefore competes with natural binding target for the binding of a specific ligand",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {
+            "concept": {
+                "id": "4e1c30c9-36d0-4bf7-811d-21c12fae31a748",
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "parameters": [],
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "sentence": "cardiomyopathics may result from a lack of oxygen",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "type": "neutre"
+            }
+        },
+        {}
+    ],
+    "parameters": [
+        {
+            "concept": {
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533047&KC=7",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533047&KC=7&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533047.txt",
+                "valeurs": {
+                    "us9533047-1": "matrix into the blood stream",
+                    "us9533047-10": "substance at a depth",
+                    "us9533047-11": "amount of the mmRNA",
+                    "us9533047-12": "meaning",
+                    "us9533047-13": "wt ratio of lipidoid",
+                    "us9533047-14": "substance at the site",
+                    "us9533047-15": "cell density during electroporation",
+                    "us9533047-16": "amount of mmRNA",
+                    "us9533047-17": "length of the poly",
+                    "us9533047-18": "concentration of the mmRNA",
+                    "us9533047-19": "concentration of a compound",
+                    "us9533047-2": "dosage form",
+                    "us9533047-20": "penetration length",
+                    "us9533047-21": "number of individuals",
+                    "us9533047-22": "variety of factors",
+                    "us9533047-23": "anchor chain length of poly",
+                    "us9533047-24": "energy into skin",
+                    "us9533047-25": "amount of the composition",
+                    "us9533047-26": "fluorescence intensity",
+                    "us9533047-27": "region of the tissue",
+                    "us9533047-28": "length of each gap",
+                    "us9533047-29": "volume scale-up",
+                    "us9533047-3": "form of eye drops",
+                    "us9533047-30": "ratio of the monomers",
+                    "us9533047-31": "form of a compound",
+                    "us9533047-32": "body weight of the animal",
+                    "us9533047-33": "reference point",
+                    "us9533047-34": "number of neutrons",
+                    "us9533047-35": "manufacturing process herein",
+                    "us9533047-36": "substance into an area",
+                    "us9533047-37": "condition of the subject",
+                    "us9533047-38": "ability of the mRNA",
+                    "us9533047-39": "length of the molecule",
+                    "us9533047-4": "gram mouse the volume",
+                    "us9533047-40": "weight ratio",
+                    "us9533047-41": "plasma concentration",
+                    "us9533047-42": "dose/at time/single route/single point of contact",
+                    "us9533047-43": "substance into a body surface",
+                    "us9533047-44": "room temperature for hours",
+                    "us9533047-45": "DNA at some frequency",
+                    "us9533047-46": "cytometer measurement",
+                    "us9533047-47": "receptor on the surface",
+                    "us9533047-48": "form of tablets",
+                    "us9533047-49": "region of a target gene",
+                    "us9533047-5": "molecule in a form",
+                    "us9533047-50": "bar",
+                    "us9533047-51": "concentration of the drug",
+                    "us9533047-52": "amount of fluid",
+                    "us9533047-53": "form of a biomolecule",
+                    "us9533047-54": "concentration of the compound",
+                    "us9533047-55": "mRNA in an injection volume",
+                    "us9533047-56": "room temperature",
+                    "us9533047-57": "number of cells",
+                    "us9533047-58": "ratio of mmRNA",
+                    "us9533047-59": "weight cutoff",
+                    "us9533047-6": "amount of the ribonucleic",
+                    "us9533047-60": "protein with death domain",
+                    "us9533047-61": "indicator of the efficacy",
+                    "us9533047-62": "peach kernel",
+                    "us9533047-63": "ability of these lipidoids",
+                    "us9533047-64": "level of mCherry",
+                    "us9533047-65": "state concentration",
+                    "us9533047-66": "vaccine in powder form",
+                    "us9533047-67": "synthetic mRNA copy number",
+                    "us9533047-68": "stream of propellant",
+                    "us9533047-69": "tumor necrosis factor",
+                    "us9533047-7": "condition for the purpose",
+                    "us9533047-70": "persistence length",
+                    "us9533047-71": "cell surface",
+                    "us9533047-72": "benefit/risk ratio",
+                    "us9533047-73": "effect regulation of transcription",
+                    "us9533047-74": "expression level",
+                    "us9533047-75": "body surface",
+                    "us9533047-76": "communication with a voltage supply",
+                    "us9533047-77": "volume of distribution",
+                    "us9533047-78": "cell-surface receptor",
+                    "us9533047-79": "surface of a cell",
+                    "us9533047-8": "content in a reservoir",
+                    "us9533047-80": "thixotropic amount of a thixotropic agent",
+                    "us9533047-81": "well at a volume",
+                    "us9533047-82": "unit quantity of composition",
+                    "us9533047-83": "growth factor-isoform",
+                    "us9533047-84": "measurement of integrity",
+                    "us9533047-85": "concentration and/or potency",
+                    "us9533047-86": "amount of a composition",
+                    "us9533047-87": "ratio of surface charge",
+                    "us9533047-88": "voltage supply",
+                    "us9533047-89": "protein level in each mouse",
+                    "us9533047-9": "activity level of a Type interferon",
+                    "us9533047-90": "height",
+                    "us9533047-91": "starting point",
+                    "us9533047-92": "level of G-CSF production",
+                    "us9533047-93": "drug form",
+                    "us9533047-94": "splitting factor",
+                    "us9533047-95": "fluorescence intensity of mCherry",
+                    "us9533047-96": "amount of an agent"
+                }
+            }
+        },
+        {
+            "concept": {
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533026&KC=6",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533026&KC=6&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533026.txt",
+                "valeurs": {
+                    "us9533026-1": "effect on expression",
+                    "us9533026-10": "difference in body weight",
+                    "us9533026-100": "form of B4v3",
+                    "us9533026-101": "growth factor receptor",
+                    "us9533026-102": "mass for a PEG",
+                    "us9533026-103": "effect on the growth",
+                    "us9533026-104": "tumor weight",
+                    "us9533026-105": "amount of B4EC-FC",
+                    "us9533026-106": "density of microvessels",
+                    "us9533026-107": "drug concentration",
+                    "us9533026-108": "stability of EphB4",
+                    "us9533026-109": "color in the ISH",
+                    "us9533026-11": "stability in vivo",
+                    "us9533026-110": "week treatment period",
+                    "us9533026-111": "volume of distribution",
+                    "us9533026-112": "ratio of drug",
+                    "us9533026-113": "surface of a cell",
+                    "us9533026-114": "well at a volume",
+                    "us9533026-115": "room temperature for minutes",
+                    "us9533026-116": "growth factor-isoform",
+                    "us9533026-117": "weight of the PEG group",
+                    "us9533026-118": "dilution effect",
+                    "us9533026-119": "amount of a composition",
+                    "us9533026-12": "treatment period",
+                    "us9533026-120": "solubility of the polypeptide",
+                    "us9533026-121": "gel at body temperature",
+                    "us9533026-122": "protein level in each mouse",
+                    "us9533026-123": "propidium iodide fluorescence intensity",
+                    "us9533026-124": "form of capsules",
+                    "us9533026-125": "effect of this protein",
+                    "us9533026-126": "portion of a CH3 domain",
+                    "us9533026-127": "amount of a polypeptide agent",
+                    "us9533026-128": "expression pattern",
+                    "us9533026-129": "level of G-CSF production",
+                    "us9533026-13": "effect of B4Ecv3",
+                    "us9533026-130": "drug form",
+                    "us9533026-131": "cell number",
+                    "us9533026-132": "percentage of tumor section area",
+                    "us9533026-133": "length of cords",
+                    "us9533026-134": "region of the tissue",
+                    "us9533026-135": "area of necrosis",
+                    "us9533026-136": "effect of B2EC-FC",
+                    "us9533026-14": "amount of EphB4",
+                    "us9533026-15": "portion of a hinge domain",
+                    "us9533026-16": "content in a reservoir",
+                    "us9533026-17": "activity level of a Type interferon",
+                    "us9533026-18": "surface of the protein",
+                    "us9533026-19": "tumor density",
+                    "us9533026-2": "vivo stability",
+                    "us9533026-20": "number of cells",
+                    "us9533026-21": "release of compounds",
+                    "us9533026-22": "cell density during electroporation",
+                    "us9533026-23": "nomenclature in this area",
+                    "us9533026-24": "wt ratio of lipidoid",
+                    "us9533026-25": "number of HHV-8",
+                    "us9533026-26": "salt concentration",
+                    "us9533026-27": "juxtamembrane region",
+                    "us9533026-28": "length of the poly",
+                    "us9533026-29": "region of tumor cells",
+                    "us9533026-3": "domain of B4",
+                    "us9533026-30": "surface of the filter",
+                    "us9533026-31": "epitope within a junction region",
+                    "us9533026-32": "growth factor",
+                    "us9533026-33": "variety of factors",
+                    "us9533026-34": "anchor chain length of poly",
+                    "us9533026-35": "energy into skin",
+                    "us9533026-36": "presence of growth factors",
+                    "us9533026-37": "ability of the EphB4",
+                    "us9533026-38": "domain of an EphrinB2 protein",
+                    "us9533026-39": "linker sequence length",
+                    "us9533026-4": "level of EphB4 and/or EphrinB2",
+                    "us9533026-40": "fibroblast growth factor",
+                    "us9533026-41": "protein tyrosine kinase domain",
+                    "us9533026-42": "amino acid within the junction region",
+                    "us9533026-43": "area of the wound",
+                    "us9533026-44": "ratio of the monomers",
+                    "us9533026-45": "bone marrow",
+                    "us9533026-46": "body weight of the animal",
+                    "us9533026-47": "growth rate",
+                    "us9533026-48": "form at C.",
+                    "us9533026-49": "number of neutrons",
+                    "us9533026-5": "cell with an amount",
+                    "us9533026-50": "globular domain",
+                    "us9533026-51": "substance into an area",
+                    "us9533026-52": "condition of the subject",
+                    "us9533026-53": "amount of the compound",
+                    "us9533026-54": "ability of the mRNA",
+                    "us9533026-55": "volume of diluent",
+                    "us9533026-56": "release component",
+                    "us9533026-57": "amount of infiltration",
+                    "us9533026-58": "form of PEGs",
+                    "us9533026-59": "ability of the fragments",
+                    "us9533026-6": "dosage form",
+                    "us9533026-60": "cell density",
+                    "us9533026-61": "room temperature for hours",
+                    "us9533026-62": "DNA at some frequency",
+                    "us9533026-63": "cytometer measurement",
+                    "us9533026-64": "domain of an Ephrin B2 protein",
+                    "us9533026-65": "level of skill",
+                    "us9533026-66": "cytotoxic effect at these doses",
+                    "us9533026-67": "Drug effect",
+                    "us9533026-68": "receptor on the surface",
+                    "us9533026-69": "region of a target gene",
+                    "us9533026-7": "ml/fraction with a concentration increment",
+                    "us9533026-70": "mass of PEG",
+                    "us9533026-71": "concentration of the drug",
+                    "us9533026-72": "copy number",
+                    "us9533026-73": "region of an immunoglobulin",
+                    "us9533026-74": "intensity of staining",
+                    "us9533026-75": "Tumor volume",
+                    "us9533026-76": "location of all cells",
+                    "us9533026-77": "region \u201d",
+                    "us9533026-78": "effect of EphB4 siRNA",
+                    "us9533026-79": "reduction in the number",
+                    "us9533026-8": "length of the linker sequence",
+                    "us9533026-80": "room temperature",
+                    "us9533026-81": "unit dosage form",
+                    "us9533026-82": "liquid at body temperature",
+                    "us9533026-83": "growth rate of the tumor",
+                    "us9533026-84": "weight cutoff",
+                    "us9533026-85": "protein with death domain",
+                    "us9533026-86": "peach kernel",
+                    "us9533026-87": "volume of PBS",
+                    "us9533026-88": "sample of the effect",
+                    "us9533026-89": "potency relative",
+                    "us9533026-9": "form of eye drops",
+                    "us9533026-90": "invasion index",
+                    "us9533026-91": "effect of administration",
+                    "us9533026-92": "domain of IgM",
+                    "us9533026-93": "effect of EphB4 AS-10",
+                    "us9533026-94": "vaccine in powder form",
+                    "us9533026-95": "domain of an EphB4 protein",
+                    "us9533026-96": "molar ratio",
+                    "us9533026-97": "full-length",
+                    "us9533026-98": "persistence length",
+                    "us9533026-99": "location"
+                }
+            }
+        },
+        {
+            "concept": {
+                "image": "https://worldwide.espacenet.com/espacenetImage.jpg?flavour=firstPageClipping&locale=en_EP&FT=D&&CC=US&NR=9533004&KC=4",
+                "pdf": "https://worldwide.espacenet.com/publicationDetails/originalDocument?CC=US&NR=9533004&KC=4&FT=D&ND=3&date=&DB=&locale=en_EP#",
+                "source": "/Users/nixin/PycharmProjects/PatentSolver_demonstrator_git/Data/input/US_patents/US9533004.txt",
+                "valeurs": {
+                    "us9533004-1": "distribution and/or absorption",
+                    "us9533004-10": "effect of B4Ecv3",
+                    "us9533004-100": "form of heart disease",
+                    "us9533004-11": "level of DMD family mRNA",
+                    "us9533004-12": "amount of EphB4",
+                    "us9533004-13": "strength of interaction",
+                    "us9533004-14": "content in a reservoir",
+                    "us9533004-15": "surface of the protein",
+                    "us9533004-16": "tumor density",
+                    "us9533004-17": "release of compounds",
+                    "us9533004-18": "nomenclature in this area",
+                    "us9533004-19": "number of HHV-8",
+                    "us9533004-2": "vivo stability",
+                    "us9533004-20": "juxtamembrane region",
+                    "us9533004-21": "region of the oligonucleotide",
+                    "us9533004-22": "region of tumor cells",
+                    "us9533004-23": "change+standard deviation in UTRN mRNA",
+                    "us9533004-24": "variety of factors",
+                    "us9533004-25": "anchor chain length of poly",
+                    "us9533004-26": "energy into skin",
+                    "us9533004-27": "domain of an EphrinB2 protein",
+                    "us9533004-28": "linker sequence length",
+                    "us9533004-29": "form of a ratio",
+                    "us9533004-3": "binding domain for a ligand",
+                    "us9533004-30": "\u201d meaning",
+                    "us9533004-31": "form of this heart condition",
+                    "us9533004-32": "area of the wound",
+                    "us9533004-33": "bone marrow",
+                    "us9533004-34": "growth rate",
+                    "us9533004-35": "form at C.",
+                    "us9533004-36": "globular domain",
+                    "us9533004-37": "amount of the compound",
+                    "us9533004-38": "start codon region",
+                    "us9533004-39": "volume of diluent",
+                    "us9533004-4": "hybridization rate",
+                    "us9533004-40": "amount of a compound",
+                    "us9533004-41": "amount of infiltration",
+                    "us9533004-42": "ability of the fragments",
+                    "us9533004-43": "cell density",
+                    "us9533004-44": "room temperature for hours",
+                    "us9533004-45": "cytometer measurement",
+                    "us9533004-46": "chemical region",
+                    "us9533004-47": "level of skill",
+                    "us9533004-48": "cytotoxic effect at these doses",
+                    "us9533004-49": "receptor on the surface",
+                    "us9533004-5": "length wherein",
+                    "us9533004-50": "acid concentration",
+                    "us9533004-51": "mass of PEG",
+                    "us9533004-52": "measurement system",
+                    "us9533004-53": "copy number",
+                    "us9533004-54": "region of an immunoglobulin",
+                    "us9533004-55": "Tumor volume",
+                    "us9533004-56": "location of all cells",
+                    "us9533004-57": "region \u201d",
+                    "us9533004-58": "reduction in the number",
+                    "us9533004-59": "room temperature",
+                    "us9533004-6": "ml/fraction with a concentration increment",
+                    "us9533004-60": "duration of action",
+                    "us9533004-61": "stop codon region",
+                    "us9533004-62": "weight cutoff",
+                    "us9533004-63": "stability in the presence",
+                    "us9533004-64": "peach kernel",
+                    "us9533004-65": "effect cleavage",
+                    "us9533004-66": "sample of the effect",
+                    "us9533004-67": "invasion index",
+                    "us9533004-68": "target region",
+                    "us9533004-69": "measure of the interaction strength",
+                    "us9533004-7": "form of eye drops",
+                    "us9533004-70": "effect of EphB4 AS-10",
+                    "us9533004-71": "vaccine in powder form",
+                    "us9533004-72": "domain of an EphB4 protein",
+                    "us9533004-73": "number of nucleotides",
+                    "us9533004-74": "kg of body weight",
+                    "us9533004-75": "effect on the growth",
+                    "us9533004-76": "form of B4v3",
+                    "us9533004-77": "tumor weight",
+                    "us9533004-78": "loss of activity",
+                    "us9533004-79": "density of microvessels",
+                    "us9533004-8": "difference in body weight",
+                    "us9533004-80": "drug concentration",
+                    "us9533004-81": "color in the ISH",
+                    "us9533004-82": "volume of distribution",
+                    "us9533004-83": "length of the target polynucleotide",
+                    "us9533004-84": "well at a volume",
+                    "us9533004-85": "room temperature for minutes",
+                    "us9533004-86": "growth factor-isoform",
+                    "us9533004-87": "g. accession number",
+                    "us9533004-88": "dilution effect",
+                    "us9533004-89": "target region within the target",
+                    "us9533004-9": "treatment period",
+                    "us9533004-90": "gel at body temperature",
+                    "us9533004-91": "propidium iodide fluorescence intensity",
+                    "us9533004-92": "form of capsules",
+                    "us9533004-93": "portion of a CH3 domain",
+                    "us9533004-94": "amount of a polypeptide agent",
+                    "us9533004-95": "expression pattern",
+                    "us9533004-96": "drug form",
+                    "us9533004-97": "cell number",
+                    "us9533004-98": "length of cords",
+                    "us9533004-99": "region of the tissue"
+                }
+            }
+        }
+    ]
+}

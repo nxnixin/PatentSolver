@@ -1,0 +1,94 @@
+waveguides/NNS are/VBP well/RB known/VBN in/IN the/DT art/NN of/IN optics/NNS
+
+the/DT detector/NN detects/VBZ a/DT portion/NN of/IN the/DT radiation/NN that/WDT enters/VBZ the/DT waveguide/NN through/IN the/DT surface/NN and/CC exits/VBZ the/DT waveguide/NN through/IN the/DT sidewall/NN 5c/CD
+
+device/NN suppresses/VBZ the/DT detection/NN of/IN specular/JJ reflections/NNS at/IN both/DT detectors/NNS and/CC 11a/CD
+
+device/NN contains/VBZ a/DT spectral/JJ filter/NN between/IN polarizer/NN and/CC detector/NN 10/CD
+
+substantially/RB more/JJR light/JJ reenters/NNS the/DT waveguide/NN and/CC passes/NNS through/IN surface/NN 5c/CD
+
+a/DT portion/NN of/IN the/DT radiation/NN illuminating/VBG the/DT skin/NN penetrates/VBZ the/DT skin/NN and/CC passes/NNS through/IN the/DT epidermis/NN to/TO reach/VB the/DT dermis/NN via/IN passage/NN through/IN the/DT dermis/epidermis/JJ junction/NN (/( de/IN junction/NN )/)
+
+a/DT processor/NN determines/VBZ one/CD or/CC more/JJR characteristics/NNS of/IN the/DT skin/NN based/VBN on/IN the/DT output/NN signals/NNS generated/VBN by/IN the/DT detector/NN
+
+a/DT processor/NN in/IN communication/NN with/IN the/DT detector/NN processes/VBZ the/DT signals/NNS and/CC calculates/VBZ a/DT physical/JJ characteristic/NN of/IN the/DT tissue/NN region/NN
+
+the/DT light/JJ sources/NNS and/CC are/VBP optically/RB coupled/VBN to/TO a/DT waveguide/NN via/IN a/DT top/JJ surface/NN a/DT thereof/NN such/JJ that/IN at/IN least/JJS a/DT portion/NN of/IN the/DT light/NN generated/VBN by/IN each/DT source/NN enters/VBZ the/DT waveguide/NN for/IN transmission/NN to/TO a/DT subject/NN 's/POS skin/NN
+
+waveguides/NNS are/VBP well/RB known/VBN in/IN the/DT art/NN of/IN optics/NNS
+
+where/WRB sources/NNS are/VBP of/IN a/DT type/NN which/WDT emit/NN light/VBD only/RB in/IN the/DT direction/NN of/IN the/DT subject/NN
+
+this/these/JJ selectively/RB connect/VBP the/DT power/NN supply/NN to/TO the/DT sources/NNS in/IN the/DT selected/JJ pattern/NN or/CC sequence/NN
+
+device/NN suppresses/VBZ the/DT detection/NN of/IN specular/JJ reflections/NNS at/IN both/DT detectors/NNS and/CC 11a/CD
+
+it/PRP can/MD allow/VB fabricating/VBG more/JJR compact/JJ applicators/NNS
+
+the/DT detector/NN detects/VBZ a/DT portion/NN of/IN the/DT radiation/NN that/WDT enters/VBZ the/DT waveguide/NN through/IN the/DT surface/NN and/CC exits/VBZ the/DT waveguide/NN through/IN the/DT sidewall/NN 5c/CD
+
+device/NN contains/VBZ a/DT spectral/JJ filter/NN between/IN polarizer/NN and/CC detector/NN 10/CD
+
+substantially/RB more/JJR light/JJ reenters/NNS the/DT waveguide/NN and/CC passes/NNS through/IN surface/NN 5c/CD
+
+a/DT processor/NN determines/VBZ one/CD or/CC more/JJR characteristics/NNS of/IN the/DT skin/NN based/VBN on/IN the/DT output/NN signals/NNS generated/VBN by/IN the/DT detector/NN
+
+light/JJ sources/NNS are/VBP typically/RB substantially/RB monochromatic/JJ so/IN that/IN filtering/NN of/IN the/DT output/NN from/IN the/DT sources/NNS is/VBZ not/RB required/VBN
+
+the/DT control/NN signals/NNS can/MD cause/VB actuation/NN of/IN at/IN least/JJS selected/JJ ones/NNS of/IN the/DT radiation/NN sources/NNS in/IN a/DT selected/VBN sequence/NN
+
+the/DT light/JJ sources/NNS and/CC are/VBP optically/RB coupled/VBN to/TO a/DT waveguide/NN via/IN a/DT top/JJ surface/NN a/DT thereof/NN such/JJ that/IN at/IN least/JJS a/DT portion/NN of/IN the/DT light/NN generated/VBN by/IN each/DT source/NN enters/VBZ the/DT waveguide/NN for/IN transmission/NN to/TO a/DT subject/NN 's/POS skin/NN
+
+a/DT portion/NN of/IN the/DT radiation/NN illuminating/VBG the/DT skin/NN penetrates/VBZ the/DT skin/NN and/CC passes/NNS through/IN the/DT epidermis/NN to/TO reach/VB the/DT dermis/NN via/IN passage/NN through/IN the/DT dermis/epidermis/JJ junction/NN (/( de/IN junction/NN )/)
+
+a/DT processor/NN in/IN communication/NN with/IN the/DT detector/NN processes/VBZ the/DT signals/NNS and/CC calculates/VBZ a/DT physical/JJ characteristic/NN of/IN the/DT tissue/NN region/NN
+
+a/DT computer/NN in/IN communication/NN with/IN the/DT applicator/NN can/MD receive/VB data/NNS from/IN the/DT sensors/NNS and/CC transmit/NN control/NN signals/NNS to/TO the/DT control/NN circuitry/NN based/VBN on/IN analysis/NN of/IN the/DT data/NNS
+
+examples/NNS of/IN wavelength/NN ranges/VBZ useful/JJ for/IN the/DT treatment/NN of/IN specific/JJ diseases/NNS and/CC cosmetic/JJ conditions/NNS
+
+a/DT dermatologist/NN can/MD thus/RB establish/VB a/DT diagnosis/NN with/IN a/DT single/JJ observation/NN
+
+this/these/JJ limits/VBZ the/DT duration/NN of/IN a/DT consultation/NN
+
+an/DT operation/NN forces/VBZ the/DT user/NN to/TO entirely/RB seize/VB the/DT hat/NN of/IN interface/NN with/IN its/PRP$ hand/NN
+
+the/DT diodes/NNS of/IN the/DT module/NN of/IN lighting/VBG light/JJ opening/NN of/IN the/DT hat/NN of/IN interface/NN which/WDT isolates/VBZ the/DT target/NN zone/NN from/IN the/DT external/JJ light/NN
+
+because/IN of/IN presence/NN of/IN a/DT hat/NN which/WDT isolates/VBZ target/NN zone/NN z/NN from/IN the/DT external/JJ light/NN
+
+each/DT target/NN of/IN localization/NN [/NNP c/VBZ ]/NN
+
+because/IN of/IN axial/JJ co-operation/NN of/IN the/DT unit/NN magnets/VBZ 50.60/CD
+
+following/VBG the/DT repetition/NN of/IN operations/NNS of/IN assembly/disassembling/VBG
+
+device/NN of/IN visual/JJ observation/NN with/IN several/JJ polarizing/VBG filters/NNS requires/VBZ to/TO envisage/VB a/DT mechanism/NN to/TO activate/VB in/IN a/DT selective/JJ way/NN each/DT polarizing/NN filter/NN
+
+[/NN fout/NN ]/NNP lighting/NN of/IN the/DT opening/NN of/IN observation/NN by/IN the/DT module/NN of/IN lighting/VBG involves/VBZ a/DT lighting/NN of/IN opening/NN of/IN hat/NN in/IN contact/NN with/IN the/DT target/NN zone/NN
+
+the/DT module/NN of/IN visualization/NN can/MD observe/VB the/DT light/NN turned/VBD over/RP by/IN the/DT target/NN zone/NN of/IN the/DT patient/NN without/IN luminous/JJ deterioration/NN resulting/VBG from/IN the/DT module/NN of/IN lighting/VBG
+
+an/DT introduction/NN is/VBZ fast/JJ and/CC limiting/VBG any/DT risk/NN of/IN damage/NN
+
+any/DT lighting/NN of/IN the/DT opening/NN of/IN observation/NN by/IN the/DT module/NN of/IN lighting/VBG involves/VBZ a/DT lighting/NN of/IN opening/NN of/IN the/DT hat/NN of/IN interface/NN in/IN contact/NN with/IN the/DT target/NN zone/NN
+
+a/DT user/NN can/MD make/VB use/NN of/IN the/DT traditional/JJ calculator/NN of/IN manner/NN by/IN using/VBG a/DT first/JJ hand/NN to/TO seize/VB data/NNS by/IN means/NNS of/IN a/DT keyboard/NN and/CC a/DT second/JJ hand/NN to/TO move/VB a/DT cursor/NN by/IN means/NNS of/IN the/DT module/NN of/IN pointing/VBG whole/JJ while/IN allowing/VBG an/DT orientation/NN and/CC a/DT positioning/NN of/IN the/DT device/NN of/IN visual/JJ observation/NN on/IN a/DT target/NN zone/NN of/IN the/DT patient/NN
+
+hat/RB forms/VBZ an/DT interface/NN between/IN the/DT opening/NN of/IN observation/NN and/CC the/DT target/NN zone/NN of/IN the/DT patient/NN in/IN order/NN to/TO guarantee/VB optimum/JJ conditions/NNS for/IN hygiene/NN
+
+the/DT unit/NN magnets/NNS are/VBP at/IN equal/JJ distance/NN from/to/RB each/DT other/JJ in/IN order/NN to/TO authorize/VB several/JJ angular/JJ positions/NNS of/IN the/DT accessory/NN compared/VBN to/TO the/DT head/NN of/IN the/DT device/NN of/IN observation/NN
+
+the/DT means/NNS of/IN magnetization/NN are/VBP appeared/VBN as/IN a/DT plurality/NN of/IN unit/NN magnets/NNS laid/VBD out/RP with/IN equal/JJ distance/NN from/to/RB each/DT other/JJ
+
+the/DT conditions/NNS of/IN observation/NN and/CC hygiene/NN are/VBP thus/RB optimal/JJ for/IN the/DT user/NN
+
+the/DT dermatologist/NN can/MD then/RB diagnose/VB the/DT state/NN of/IN the/DT dermatological/JJ anomaly/NN starting/VBG from/IN his/PRP$ visual/JJ observation/NN of/IN the/DT gauged/JJ image/NN 82/CD
+
+it/PRP is/VBZ not/RB advantageously/RB necessary/JJ any/DT more/RBR individually/RB to/TO locate/VB each/DT colorimetric/NN zone/NN in/IN the/DT image/NN as/IN in/IN former/JJ art/NN
+
+the/DT colors/NNS of/IN an/DT image/NN can/MD vary/VB because/IN of/IN the/DT variations/NNS of/IN the/DT conditions/NNS of/IN lighting/VBG and/or/JJ adjustment/NN of/IN the/DT camera/NN of/IN acquisition/NN of/IN which/WDT the/DT image/NN is/VBZ resulting/VBG
+
+each/DT rough/JJ image/NN has/VBZ a/DT colorimetric/JJ configuration/NN [/NNP cc/NN ]/NNP which/WDT is/VBZ not/RB gauged/VBN
+
